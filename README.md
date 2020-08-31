@@ -1,2 +1,2 @@
-# geolocaliza-o-
+# geolocalização
 acompanhando a localização com react
