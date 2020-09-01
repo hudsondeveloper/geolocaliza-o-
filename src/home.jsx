@@ -115,6 +115,7 @@ const useStyles = makeStyles((theme) => ({
     },
   },
 }));
+
 const videos = [
   {
     id: 1,
@@ -276,6 +277,7 @@ const videos = [
     thumb: "/images/thumb8.png",
   },
 ];
+
 export default function Home(props) {
   const classes = useStyles();
   const theme = useTheme();
